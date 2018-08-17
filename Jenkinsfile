@@ -1,4 +1,4 @@
-pipeline {
+1pipeline {
   agent any
   environment {
     MAJOR_VERSION = 1
